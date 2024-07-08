@@ -1,6 +1,6 @@
 # Hi, i'm Bogdan! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ6&layout=compact&theme=radical)
+
 
 ## About me
 
