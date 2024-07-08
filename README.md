@@ -7,4 +7,4 @@
 I'm a student from St. Petersburg, Russia.
 Currently studying System and Applied Software at [ITMO University](https://itmo.ru/).
 
-![Bogdan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BZ6)
+![Bogdan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BZ6&theme=dark)
