@@ -9,10 +9,6 @@
 - C/C++ enjoyer
 - Open to new things
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BZ6&show_icons=true&theme=radical)
-
 ### Favourite utils:
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -22,3 +18,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BZ6&show_icons=true&theme=radical)
+
+
