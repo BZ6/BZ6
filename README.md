@@ -19,7 +19,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ6&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BZ6&show_icons=true&theme=radical)
 
