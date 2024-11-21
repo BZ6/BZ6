@@ -4,9 +4,21 @@
 
 - [ITMO](https://itmo.ru/) SE Student
 - Math enjoyer
-- In love of functional programming
+- Winner of the Phystech Math Olympiad
+- In love with functional programming
 - C/C++ enjoyer
+- Open to new things
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ6&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BZ6&show_icons=true&theme=radical)
+
+### Favourite utils:
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
