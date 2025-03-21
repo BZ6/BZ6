@@ -31,6 +31,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BZ6&layout=compact&hide=javascript,html,css,cmake&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![My%20LeetCode Stats](https://leetcode-status.vercel.app/api/card/xelj8?theme=dark&hide_title=false&custom_title=My%20LeetCode)
+
 ![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BZ6&show_icons=true&theme=radical)
 
 
